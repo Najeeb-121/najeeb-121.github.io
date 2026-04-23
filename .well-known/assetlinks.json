@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.dawrak.app",
+    "sha256_cert_fingerprints": [
+      "FE:CB:81:D1:07:64:7A:87:D5:1D:75:8B:1F:A9:31:15:FA:D5:CF:36:73:DB:FB:C6:23:DC:FE:74:D7:B5:91:CC"
+    ]
+  }
+}]
